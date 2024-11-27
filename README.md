@@ -1,4 +1,8 @@
 ## Hi there 👋
+3rd B.Tech. (ECE) IIITDM JABALPUR |
+JAVA Developer
+
+
 
 Keep Grinding!
 
