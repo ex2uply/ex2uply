@@ -1,7 +1,6 @@
 ## Hi there 👋
 3rd B.Tech. (ECE) IIITDM JABALPUR |
-JAVA Developer
-
+I'm currently working on creating an NN entirely in C.
 
 
 Keep Grinding!
