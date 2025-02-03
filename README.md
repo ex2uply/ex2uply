@@ -1,6 +1,6 @@
 ## Hi there 👋
 3rd B.Tech. (ECE) IIITDM JABALPUR |
-I'm currently working on creating an NN entirely in C.
+I'm currently working on my personal portfolio using three.js.
 
 
 Keep Grinding!
