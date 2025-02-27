@@ -10,8 +10,6 @@ I'm currently working on my personal portfolio using three.js.
 - [LinkedIn](https://www.linkedin.com/in/adityakumarin/)
 - [Twitter](https://twitter.com/adityakrtweets)
 
----
-
 Thanks for stopping by! If you’re interested in collaboration or have any questions, don’t hesitate to reach out.
 
 <!-- Happy Coding! -->
