@@ -42,20 +42,8 @@ Here’s a snapshot of my skills, projects, and coding journey.
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- [Twitter](https://twitter.com/YOUR_TWITTER)
-- [Personal Website](https://yourwebsite.com)
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built an Interactive Dashboard](https://linktoblog.com)
-- [My Journey with Open Source](https://linktoblog.com)
-<!-- BLOG-POST-LIST:END -->
-
-*(Feel free to remove this section if you’re not blogging or update with your latest posts.)*
+- [LinkedIn](https://www.linkedin.com/in/adityakumarin/)
+- [Twitter](https://twitter.com/adityakrtweets)
 
 ---
 
