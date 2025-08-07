@@ -42,9 +42,3 @@
 - [Twitter: @ex2uply](https://twitter.com/ex2uply)
 
 ---
-
-> “Simplicity is the ultimate sophistication.”
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
