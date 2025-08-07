@@ -1,5 +1,5 @@
 ## Hi there 👋
-3rd B.Tech. (ECE) IIITDM JABALPUR |
+Final Year B.Tech. (ECE) IIITDM JABALPUR |
 # 👋 Hi, I'm Aditya Kumar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adityakumarin-blue?logo=linkedin)](https://www.linkedin.com/in/adityakumarin)
