@@ -1,32 +1,49 @@
 ## Hi there 👋
 3rd B.Tech. (ECE) IIITDM JABALPUR |
-I'm currently working on my personal portfolio using three.js.
+# 👋 Hi, I'm Aditya Kumar
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adityakumarin-blue?logo=linkedin)](https://www.linkedin.com/in/adityakumarin)
+[![Twitter](https://img.shields.io/badge/Twitter-@ex2uply-1da1f2?logo=twitter)](https://twitter.com/ex2uply)
 
-<!-- Hi there, I'm [Your Name]! -->
+---
 
-## 🤝 Connect with Me
+## 🚀 About Me
 
-- [LinkedIn](https://www.linkedin.com/in/adityakumarin/)
-- [Mail](mailto:adityakumar.so2003@gmail.com)
+- **Student Developer** passionate about building with **JavaScript**, **TypeScript**, **Node.js**, and **Next.js**.
+- Embracing a **minimalist** approach in both code and life.
+- 🚄 Always learning—currently picking up **Japanese**.
 
-Thanks for stopping by! If you’re interested in collaboration or have any questions, don’t hesitate to reach out.
+---
 
-<!-- Happy Coding! -->
+## 🛠️ Projects
 
+- **Social Media App**  
+  Modern full-stack platform for connecting people and sharing moments.
 
+- **Tetris Game**  
+  Classic Tetris, rebuilt with JS/TS for the web—because some games are timeless.
 
+- **Smart Health Kiosk**  
+  Innovative solution for accessible and efficient health checkups.
 
-<!--
-**ex2uply/ex2uply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎨 Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- Learning Japanese
+- Painting
+- Video Editing
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/adityakumarin)
+- [Twitter: @ex2uply](https://twitter.com/ex2uply)
+
+---
+
+> “Simplicity is the ultimate sophistication.”
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
