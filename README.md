@@ -13,7 +13,7 @@ Final Year B.Tech. (ECE) IIITDM JABALPUR
 - Embracing a **minimalist** approach in both code and life.
 - 🚄 Always learning—currently picking up **Japanese**.
 
----
+
 
 ## 🛠️ Projects
 
@@ -26,7 +26,7 @@ Final Year B.Tech. (ECE) IIITDM JABALPUR
 - **Smart Health Kiosk**  
   Innovative solution for accessible and efficient health checkups.
 
----
+
 
 ## 🎨 Hobbies
 
@@ -34,11 +34,11 @@ Final Year B.Tech. (ECE) IIITDM JABALPUR
 - Painting
 - Video Editing
 
----
+
 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/adityakumarin)
 - [Twitter: @ex2uply](https://twitter.com/ex2uply)
 
----
+
