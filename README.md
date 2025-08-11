@@ -11,7 +11,7 @@ Final Year B.Tech. (ECE) IIITDM JABALPUR
 
 - **Student Developer** passionate about building with **JavaScript**, **TypeScript**, **Node.js**, and **Next.js**.
 - Embracing a **minimalist** approach in both code and life.
-- 🚄 Always learning—currently picking up **Japanese**.
+- 🚄 Always learning - currently picking up **Japanese**.
 
 
 
